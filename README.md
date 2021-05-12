@@ -1,8 +1,6 @@
 <hr>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff) ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![GitHub repo size](https://img.shields.io/github/repo-size/JoPowerTech/ReverseShell?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/JoPowerTech/ReverseShell?style=for-the-badge)
 # Reverse Shell
 
 ### Reverse Shell made in Node.js, to use open a port and listen to it. You can do this easily with netcat.
