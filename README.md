@@ -17,6 +17,6 @@ var IP = "YOU IP"
 ### Now run the client.js file on the victim's computer, make sure she has the node and lib child_process installed
 
 <p align="center">
-    <img style="margin: 10px" src="https://github.com/JoPowerTech/ReverseShell/blob/main/screenshot.png" alt="print" height="10px"/>
+    <img style="margin: 100px" src="https://github.com/JoPowerTech/ReverseShell/blob/main/screenshot.png" alt="print" height="100px"/>
 </p>
 <hr>
