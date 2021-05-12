@@ -16,4 +16,9 @@ var IP = "YOU IP"
 
 ### Now run the client.js file on the victim's computer, make sure she has the node and lib child_process installed
 
+<p align="center">
+
+    ![print]()
+
+</p>
 <hr>
